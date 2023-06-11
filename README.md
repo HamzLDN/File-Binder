@@ -1,5 +1,5 @@
 # File-Binder
-Uses python and C to merge different executables.
+Uses python and C to merge different executables and files.
 
 Make sure to have both python and C for this to work.
 
